@@ -1,11 +1,8 @@
 
-```markdown
 # Parcial: Estructuras de Datos No Lineales
 
 **Ciencias de la Computación e Inteligencia Artificial**  
 *Yeimy Estefania Beltran Sandoval*
-
----
 
 Este repositorio contiene la solución al parcial la asignatura **Estructuras de Datos No Lineales**. Se implementan 15 ejercicios que cubren:
 
@@ -16,7 +13,6 @@ Este repositorio contiene la solución al parcial la asignatura **Estructuras de
 
 ## Estructura del Proyecto
 
-```
 ├── src/                      # Código fuente de los ejercicios
 │   ├── ejercicio01.py        # Estructura Organizacional (Árbol N-ario)
 │   ├── ejercicio02.py        # Sistema de Archivos
