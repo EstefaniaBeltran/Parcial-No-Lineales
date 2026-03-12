@@ -37,7 +37,6 @@ Este repositorio contiene la solución al parcial la asignatura **Estructuras de
 │   └── (archivos de prueba opcionales)
 ├── README.md                  # Este archivo
     └── requirements.txt  
-
 ```
 
 ---
